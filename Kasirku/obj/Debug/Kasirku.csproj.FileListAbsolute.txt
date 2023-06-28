@@ -1,0 +1,10 @@
+D:\Programming\Project\Kasirku\Kasirku\Kasirku\bin\Debug\Kasirku.exe.config
+D:\Programming\Project\Kasirku\Kasirku\Kasirku\bin\Debug\Kasirku.exe
+D:\Programming\Project\Kasirku\Kasirku\Kasirku\bin\Debug\Kasirku.pdb
+D:\Programming\Project\Kasirku\Kasirku\Kasirku\obj\Debug\Kasirku.csprojAssemblyReference.cache
+D:\Programming\Project\Kasirku\Kasirku\Kasirku\obj\Debug\Kasirku.Kasirku.resources
+D:\Programming\Project\Kasirku\Kasirku\Kasirku\obj\Debug\Kasirku.Properties.Resources.resources
+D:\Programming\Project\Kasirku\Kasirku\Kasirku\obj\Debug\Kasirku.csproj.GenerateResource.cache
+D:\Programming\Project\Kasirku\Kasirku\Kasirku\obj\Debug\Kasirku.csproj.CoreCompileInputs.cache
+D:\Programming\Project\Kasirku\Kasirku\Kasirku\obj\Debug\Kasirku.exe
+D:\Programming\Project\Kasirku\Kasirku\Kasirku\obj\Debug\Kasirku.pdb
